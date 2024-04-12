@@ -28,7 +28,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [TecnoTopicos](https://tecnotopicos.com/)
+- 📝 I regularly write articles on [HashNode](https://sepulveda-oscar.hashnode.dev/)
 
 - 💬 Ask me about **Java, Node.js, AWS**
 
